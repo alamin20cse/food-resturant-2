@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+/* font-family: "Work Sans", sans-serif; */
+
+.cardbox
+{
+    width: 400px;
+    height:611px ;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-family: "Work Sans", sans-serif;
+    align-items: center;
+    display:flex;
+
+    
+}
+.imgcls
+{
+    height: 266x;
+    width: 400px;
+    background-size: cover;
+}
+.fooddes
+{
+    align-items: center;
+margin-top: 20px;
+    width: 175px;
+    height: 52px;
+    background-color:  #52C303;
+    
+
+    border-radius: 5px;
+    display: flex;
+   justify-content: center;
+   font-family: "Work Sans", sans-serif;
+   font-weight:bold
+   
+    
+}
+.up
+{
+    font-family: "Work Sans", sans-serif;
+    font-weight: bold;
+    
+}
+.pr
+{
+    font-family: "Work Sans", sans-serif;
+    justify-content: center
+}
+.bt1
+{
+    align-items: center;
+   
+        width: 148px;
+        height: 52px;
+       background-color: #52C303;
+       border-radius: 5px;
+       display:flex;
+       align-items: center;
+      
+       
+        
+    
+        
+}
+.allcard
+{
+    display: flex;
+    gap: 20px;
+
+}
+,sectionclass
+{
+    width: 1172;
+    align-items: center;
+   
+}
+.watch
+{
+    display: flex;
+    align-items: center;
+}
