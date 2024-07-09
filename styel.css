@@ -99,3 +99,9 @@ margin-top: 20px;
     justify-content: center;
     
 }
+.foodbrand
+{
+    display: flex;
+    width: 1172px;
+    justify-content: center;
+}
